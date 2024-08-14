@@ -162,7 +162,7 @@ Create a query to answer the following questions:
 
 Create a query to filter data based on the following conditions:
    - Retrieve all trips where the bike_id is not null and the duration is greater than 1000 minutes.
-   - Filter trips where the trip_id is "Walk Up" and the end_station_name  is "Stolen".5
+   - Filter trips where the trip_id is "Walk Up" and the end_station_name  is "Stolen".
 
 ---
 
@@ -267,5 +267,5 @@ Scrape coins price from https://coinmarketcap.com/ with following requirements:
    1. Get the Measures of the Central Tendency and Measures of Variation from data “Top 10000 Spotify Songs”. Measurethe popularity based on the year. Comment on the results.
 
 ### TASK 2
-   1. Conduct the hypothesis testing from data “Top 10000 Spotify Songs” to check whether the Popularity of Britney Spearsand Taylor Swift is statistically different by using a 0.05 significance level to evaluate the null and alternativehypotheses. Before doing hypothesis testing, check the related assumptions. Comment on the results.5
+   1. Conduct the hypothesis testing from data “Top 10000 Spotify Songs” to check whether the Popularity of Britney Spearsand Taylor Swift is statistically different by using a 0.05 significance level to evaluate the null and alternativehypotheses. Before doing hypothesis testing, check the related assumptions. Comment on the results.
 

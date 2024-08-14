@@ -1,6 +1,6 @@
 # Non-Graded Challenge
 
-_Non Graded Challenge ini dibuat untuk latihan dari tugas tugas yang telah diberikan._
+_Non-graded challenge is designed for practice based on the tasks that have been assigned._
 
 ---
 
